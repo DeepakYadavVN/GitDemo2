@@ -11,3 +11,4 @@ tmp/
 *.swp
 *~.nib
 local.properties
+.idea
